@@ -25,7 +25,7 @@
 .body-container{
     
 }
-.search-container{
+.button-container{
     padding: 10px;
 }
 .res-container{
@@ -39,6 +39,7 @@
     background-color: #e3dfdf;
 }
 .res-card:hover{
+    cursor: pointer;
     border: 1px solid #0f0f0f;
 }
 .res-card img{  
